@@ -2540,7 +2540,7 @@ body.barber_version .dev-list .widget:hover .hover-br .social-up-hover .footer-s
   border-bottom: 0px;
 }
 .card .card-title {
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
 }
 .card .card-block {
   padding-top: 0;
@@ -2583,9 +2583,10 @@ body.barber_version .dev-list .widget:hover .hover-br .social-up-hover .footer-s
 }
 
 .line-pricing h5{
-	font-size: 14px;
-	font-weight: 600;
-	border-bottom: 1px dashed #010101;
+    font-size: 14px;
+    font-weight: 600;
+    border-top: 1px dashed #010101;
+    padding-top: 0.5rem;
 }
 .line-pricing p{
 	font-size: 12px;
