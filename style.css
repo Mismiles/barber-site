@@ -2348,6 +2348,11 @@ select.mobile-device {
 	position: relative;
 }
 
+.all-page-bar-2{
+	position: relative;
+    width: 100%;
+}
+
 .all-page-bar::before{
 	content: "";
 	position: absolute;
