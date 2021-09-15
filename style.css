@@ -453,6 +453,18 @@ a img.aligncenter {
 	height: 100vh;
 }
 
+.slider-04{
+	background: url(uploads/slider-img-04.jpg) no-repeat center;
+	background-size: cover;
+	height: 100vh;
+}
+
+.slider-05{
+	background: url(uploads/slider-img-05.jpg) no-repeat center;
+	background-size: cover;
+	height: 100vh;
+}
+
 .item.slider-01{
 	
 }
